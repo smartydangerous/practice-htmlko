@@ -1,0 +1,41 @@
+
+/*tag selector*/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    backgroubd-color: whitesmoke;
+}
+#main-first{
+    height: 80px;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+#main-first b{
+    color: white;
+    font-size: 100px;
+    
+}
+.first-card{
+    border-radius: 10px;
+    width: 250px;
+    background-color: antiquewhite;
+    min-height: 300px;
+    box-shadow: 3px 4px 10px grey;
+}
+.card-title{
+    background-color: red;
+    height: 60px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}

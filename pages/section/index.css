@@ -1,0 +1,113 @@
+/* tag selector */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* id selector */
+#main{
+    background-color: whitesmoke;
+}
+#main-first{
+    height: 80px;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#main-first b{
+    color: white;
+    font-size: 40px;
+
+}
+#main-second{
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+}
+.first-card{
+    border-radius: 10px;
+    width: 450px;
+    display: block;
+    background-color: antiquewhite;
+    min-height: 300px;
+    border-bottom: 4px solid red;
+    box-shadow: 3px 4px 10px grey;
+}
+.card-title{
+    background-color: red;
+    height: 60px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+li{
+    padding-top: 10px;
+    margin-block: 10px;
+    margin-top: 10px;
+}
+
+
+#second-all{
+    padding-left: 100px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.second-card{
+    border-radius: 10px;
+    width: 450px;
+    background-color: antiquewhite;
+    min-height: 300px;
+    border-bottom: 4px solid yellow;
+    box-shadow: 3px 4px 10px grey;
+}
+.seccard-title{
+    background-color: yellow;
+    height: 60px;
+    border-top-left-radius: 10px;
+    border-top-left-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+#third-all{
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.third-card{
+    border-radius: 10px;
+    width: 450px;
+    background-color: antiquewhite;
+    min-height: 300px;
+    border-bottom: 4px solid blue;
+    box-shadow: 3px 4px 10px grey ;
+
+}
+.thircard-title{
+
+    background-color: blue;
+    height: 60px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+
+}
+#hitesh{
+    color: red;
+}

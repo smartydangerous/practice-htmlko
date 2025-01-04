@@ -1,0 +1,93 @@
+.maincontainer{
+    display: flex;
+    width: 100%;
+
+}
+.mathiko{
+    align-items: center;
+    background-color: grey;
+    padding: 10px;
+    font-size: 200%;
+    color: white;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+    
+    
+
+.card{
+  
+   margin: 30px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-bottom: 30px;
+   flex-wrap: wrap;
+   word-wrap: break-word;
+   flex: 1;
+   border: solid white;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   box-shadow: 5px 5px 5px lightslategray;
+   border-radius: 10px;
+   width: fit-content;
+ 
+}
+.ordered{
+    background-color: red;
+    color: white;
+    
+    
+    font-size: larger;
+   width: 108.5%;
+    flex: 1;
+   
+    border-top: 10px;
+    text-align: center;
+    
+
+   
+}
+.dis{
+    background-color: rgb(33, 181, 240);
+  
+    
+    width: 108.5%;
+    color: white;
+    text-align: center;
+}
+.topic{
+    color: red;
+    font-weight: bold;
+    
+}
+.unordered{
+    background-color: #ffd900;
+    width: 108%;
+    color: white;
+    text-align: center;
+}
+body,html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hungry{
+    text-align: left;
+    
+}
+.second{
+    margin: 40px;
+    top: 0;
+    left: 0;
+}
+.sql{
+    background-color: rgba(211, 211, 211, 0.932);
+    border: 2px solid yellow;
+
+}
+.plan{
+    background-color: lightgreen
+}
+
+
+
